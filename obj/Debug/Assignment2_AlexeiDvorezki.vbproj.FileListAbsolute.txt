@@ -1,0 +1,12 @@
+C:\software\VB projects\Assignment2_AlexeiDvorezki\bin\Debug\Assignment2_AlexeiDvorezki.exe.config
+C:\software\VB projects\Assignment2_AlexeiDvorezki\bin\Debug\Assignment2_AlexeiDvorezki.exe
+C:\software\VB projects\Assignment2_AlexeiDvorezki\bin\Debug\Assignment2_AlexeiDvorezki.pdb
+C:\software\VB projects\Assignment2_AlexeiDvorezki\bin\Debug\Assignment2_AlexeiDvorezki.xml
+C:\software\VB projects\Assignment2_AlexeiDvorezki\obj\Debug\Assignment2_AlexeiDvorezki.vbprojAssemblyReference.cache
+C:\software\VB projects\Assignment2_AlexeiDvorezki\obj\Debug\Assignment2_AlexeiDvorezki.Form1.resources
+C:\software\VB projects\Assignment2_AlexeiDvorezki\obj\Debug\Assignment2_AlexeiDvorezki.Resources.resources
+C:\software\VB projects\Assignment2_AlexeiDvorezki\obj\Debug\Assignment2_AlexeiDvorezki.vbproj.GenerateResource.cache
+C:\software\VB projects\Assignment2_AlexeiDvorezki\obj\Debug\Assignment2_AlexeiDvorezki.vbproj.CoreCompileInputs.cache
+C:\software\VB projects\Assignment2_AlexeiDvorezki\obj\Debug\Assignment2_AlexeiDvorezki.exe
+C:\software\VB projects\Assignment2_AlexeiDvorezki\obj\Debug\Assignment2_AlexeiDvorezki.xml
+C:\software\VB projects\Assignment2_AlexeiDvorezki\obj\Debug\Assignment2_AlexeiDvorezki.pdb
